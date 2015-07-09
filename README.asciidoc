@@ -1,0 +1,36 @@
+AgMIP Commons Library
+=====================
+:Date: 09/07/2015
+:Revision: 2.0.0
+
+The AgMIP Commons Library (agmip-commons) is a collection of methods which are used throughout
+the AgMIP libraries. This provides a consistent way to approach developing tools for the AgMIP
+community.
+
+IMPORTANT: This library will be replacing the https://github.com/agmip/agmip-common-functions[AgMIP Common Functions] library.
+
+Methods
+-------
+
+TBA
+
+Disclaimer
+----------
+
+This is a work in progress. It is designed to be released at the same time as https://github.com/agmip/ace-core[ACE Core] 2.1 and should be applied to upcoming versions of the https://github.com/agmip/dome[DOME] and https://github.com/agmip/acmo[ACMO] libraries.
+
+Usage
+-----
+
+agmip-commons is to be deployed in Maven Central:
+
+    <dependency>
+      <groupId>org.agmip</groupId>
+      <artifactId>agmip-commons</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+    </dependency>
+
+Roadmap
+-------
+
+TBA
